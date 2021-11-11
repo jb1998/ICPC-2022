@@ -27,3 +27,11 @@
 * Graph
 
 
+## Contribute ?
+* Fork the repository
+* Make the commits
+* Submit a pull request
+
+*If you find any better approach then make a pull request. It will be merged after a review.
+
+*You can also make a pull request if you solved the problems with same approach as above but in another programming language.

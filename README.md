@@ -8,7 +8,7 @@
 ##  Algorithms :octocat:
 * Binary Search
 * Sliding Window
-* Two Pointers
+* [Two Pointers](https://github.com/jb1998/ICPC-2022/blob/main/Two-pointer)
 * Breadth-First Search
 * Depth-First Search
 * Recursion 

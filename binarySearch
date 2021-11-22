@@ -1,0 +1,13 @@
+Binary search works on the sorted arrays/lists
+
+The idea is every time we see the middle element of the array and discard the half. The search is again performed but only in the half of the array.
+The process is repeated again and again and array is divided in every step into half. The search space reduction happens in the format:
+
+n,  n/2,  2/4,  n/8,  n/16 and so on....
+
+Here is list of 164 problems based on binary search of different difficulty levels along with difficulty tag:
+
+
+Link: https://leetcode.com/tag/binary-search/
+
+Suggestion: start with easy and solve 5-6 problems, then move to medium and solve 2-3 problems and then try 1 hard. Your binary search concept will be at decent level.

@@ -3,7 +3,12 @@
 
 ## *This repository is for ICPC preparation for students of UWindsor
 
-# Getting Started
+# Slides
+* [Introduction](https://docs.google.com/presentation/d/1Qe_10ofabc_5B47Y7hIBlyaHKY40-jWnOYXuGhI9RcM/edit?usp=sharing)
+* [Sliding window and 2-pointers](https://docs.google.com/presentation/d/1hYSKvdlPDJvxOU266OhzEUOI0czBEOmE2P6Gi0jrc3I/edit?usp=sharing)
+* [Linear and Binary search](https://docs.google.com/presentation/d/14hnZlcCv8CQtKDRjRq8oYm_blX2daJ6kDVRH3J5-vhw/edit?usp=sharing)
+
+# Getting Started with important Data Structures and Algorithms
 
 ##  Algorithms :octocat:
 * [Binary Search](https://github.com/jb1998/ICPC-2022/blob/main/binarySearch)
@@ -26,10 +31,7 @@
 * Tree
 * Graph
 
-# Slides
-* [Introduction](https://docs.google.com/presentation/d/1Qe_10ofabc_5B47Y7hIBlyaHKY40-jWnOYXuGhI9RcM/edit?usp=sharing)
-* [Sliding window and 2-pointers](https://docs.google.com/presentation/d/1hYSKvdlPDJvxOU266OhzEUOI0czBEOmE2P6Gi0jrc3I/edit?usp=sharing)
-* [Linear and Binary search](https://docs.google.com/presentation/d/14hnZlcCv8CQtKDRjRq8oYm_blX2daJ6kDVRH3J5-vhw/edit?usp=sharing)
+
 
 ## Contribute ?
 * Fork the repository

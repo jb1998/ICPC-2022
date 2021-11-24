@@ -8,6 +8,14 @@
 * [Sliding window and 2-pointers](https://docs.google.com/presentation/d/1hYSKvdlPDJvxOU266OhzEUOI0czBEOmE2P6Gi0jrc3I/edit?usp=sharing)
 * [Linear and Binary search](https://docs.google.com/presentation/d/14hnZlcCv8CQtKDRjRq8oYm_blX2daJ6kDVRH3J5-vhw/edit?usp=sharing)
 
+# Resources
+* [Kattis website](https://open.kattis.com/problems)
+* [Onlinejudge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=13)
+* [Leetcode](https://leetcode.com) to start with basic problems
+* Algorithms from [geeksforgeeks](https://www.geeksforgeeks.org)
+* [Codechef/Codeforces](https://codeforces.com) past rounds/competitive coding questions
+* [Hackerrank](https://www.hackerrank.com) for practice of Data structures and algorithms
+
 ## Getting Started with important Data Structures and Algorithms
 
 ##  Algorithms :octocat:

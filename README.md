@@ -53,7 +53,7 @@
 
 ## Topic wise solved problems along with tags of algorithms, data structures and difficulty
 
-* [Vowels of All Substrings] - String manupilation, Medium
-* [Reverse Nodes in Even Length Groups] - Recursion, LinkedList, Medium
-* [Time Needed to Buy Tickets] - Arrays, Easy
+* [Vowels of All Substrings](https://github.com/jb1998/ICPC-2022/blob/main/Vowels%20of%20All%20Substrings) - String manupilation, Medium
+* [Reverse Nodes in Even Length Groups](https://github.com/jb1998/ICPC-2022/blob/main/Reverse%20Nodes%20in%20Even%20Length%20Groups) - Recursion, LinkedList, Medium
+* [Time Needed to Buy Tickets](https://github.com/jb1998/ICPC-2022/blob/main/Time%20Needed%20to%20Buy%20Tickets) - Arrays, Easy
 

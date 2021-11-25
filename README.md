@@ -49,3 +49,11 @@
 *If you find any better approach then make a pull request. It will be merged after a review.
 
 *You can also make a pull request if you solved the problems with same approach as above but in another programming language.
+
+
+## Topic wise solved problems along with tags of algorithms, data structures and difficulty
+
+* [Vowels of All Substrings] - String manupilation, Medium
+* [Reverse Nodes in Even Length Groups] - Recursion, LinkedList, Medium
+* [Time Needed to Buy Tickets] - Arrays, Easy
+

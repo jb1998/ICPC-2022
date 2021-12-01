@@ -56,4 +56,7 @@
 * [Vowels of All Substrings](https://github.com/jb1998/ICPC-2022/blob/main/Vowels%20of%20All%20Substrings) - String manupilation, Medium
 * [Reverse Nodes in Even Length Groups](https://github.com/jb1998/ICPC-2022/blob/main/Reverse%20Nodes%20in%20Even%20Length%20Groups) - Recursion, LinkedList, Medium
 * [Time Needed to Buy Tickets](https://github.com/jb1998/ICPC-2022/blob/main/Time%20Needed%20to%20Buy%20Tickets) - Arrays, Easy
+* [Candy](https://github.com/jb1998/ICPC-2022/blob/main/coding-questions/135.%20Candy) - Arrays, Greedy, Hard
+* [Remove Duplicate Letters](https://github.com/jb1998/ICPC-2022/blob/main/coding-questions/316.%20Remove%20Duplicate%20Letters) - Arrays, Medium, Greedy
+* [Wiggle Subsequence](https://github.com/jb1998/ICPC-2022/blob/main/coding-questions/376.%20Wiggle%20Subsequence) - Arrays, Medium
 

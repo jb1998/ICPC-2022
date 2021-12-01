@@ -1,0 +1,38 @@
+Given a list of non-negative integers nums, arrange them such that they form the largest number.
+
+Note: The result may be very large, so you need to return a string instead of an integer.
+
+ taken from leetcode
+ 
+ my solution
+ class Solution {
+    public String largestNumber(int[] nums) {
+        boolean zero=true;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]!=0){
+                zero=false;
+                break;
+            }
+        }
+        if(zero)
+            return "0";
+        String ans="";
+        for(int i=0;i<nums.length;i++){
+            for(int j=i+1;j<nums.length;j++){
+                String ab=nums[i]+""+nums[j];
+                String ba=nums[j]+""+nums[i];
+                if(ba.compareTo(ab)>0){
+                    int temp=nums[i];
+                    nums[i]=nums[j];
+                    nums[j]=temp;
+                    
+                }
+                // System.out.println(nums[i]+" "+ab+" "+ba+" "+ba.compareTo(ab));
+            }
+        }
+        for(int i=0;i<nums.length;i++){
+            ans+=nums[i];
+        }
+        return ans;
+    }
+}
